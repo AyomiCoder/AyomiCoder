@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AyomiCoder
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Javascript and its frameworks 
+- 🌱 I’m currently learning Javascript 
 - 📫 How to reach me alukoayomide623@gmail.com
 
 <!---
