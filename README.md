@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyomiCoder
-- 👀 I’m interested in Web and Mobile app development
-- 🌱 I’m currently on the path to fullstack 
+- 👀 I'm a Frontend Developer
+- 🌱 Currently on the path to fullstack 
 - 📫 How to reach me alukoayomide623@gmail.com
 
 <!---
