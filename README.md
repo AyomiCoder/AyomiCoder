@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AyomiCoder
-- 👀 I'm a Frontend Developer
-- 🌱 Currently on the path to fullstack 
+- 👋 Hi, I’m Ayomide
 - 📫 How to reach me alukoayomide623@gmail.com
 
 <!---
