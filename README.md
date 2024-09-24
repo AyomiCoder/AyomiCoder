@@ -19,12 +19,6 @@ I'm Ayomide, a backend developer fueled by my curiosity and desire to solve comp
   ![Technical Writing](https://img.shields.io/badge/Technical%20Writing-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 
-## 📈 GitHub Stats
-![Aluko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyomiCoder&show_icons=true&theme=radical)
-
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyomiCoder&layout=compact&theme=radical)
-
 ## 📫 How to Reach Me
 - **Email:** alukoayomide623@gmail.com
 - **LinkedIn:** [Aluko Ayomide](https://www.linkedin.com/in/ayomide-aluko-555fdrrg)
