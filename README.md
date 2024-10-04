@@ -30,6 +30,6 @@ I'm Ayomide, a backend developer fueled by my curiosity and desire to solve comp
 <!-- BLOG-POST-LIST:END -->
 
 ## 📂 Portfolio
-- **[Portfolio](https://aluko.vercel.app):** My Personal Website.
+- **[Portfolio](https://ayoaluko.vercel.app/):** My Personal Website.
 
 
