@@ -14,8 +14,6 @@ I'm Ayomide, a backend developer fueled by the curiosity and desire to solve com
 - **Languages:** 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **Others:** 
-  ![Technical Writing](https://img.shields.io/badge/Technical%20Writing-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 ## 📚 Technical Writing Blog
 <!-- BLOG-POST-LIST:START -->
