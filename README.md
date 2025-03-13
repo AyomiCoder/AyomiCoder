@@ -1,9 +1,8 @@
-# Hi there, I'm Ayomide! 👋
+# Hi there! 👋
 
-Welcome Anon!
 
 ## 🚀 About Me
-I'm Ayomide, a backend developer fueled by my curiosity and desire to solve complex problems. When I'm not coding, I share my knowledge through technical writing.
+I'm Ayomide, a backend developer fueled by the curiosity and desire to solve complex problems. When I'm not coding, I share my knowledge through technical writing.
 
 ## 🛠️ My Tech Stack/ Technologies
 - **Backend Frameworks:** 
@@ -18,16 +17,7 @@ I'm Ayomide, a backend developer fueled by my curiosity and desire to solve comp
 - **Others:** 
   ![Technical Writing](https://img.shields.io/badge/Technical%20Writing-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
-
-## 📫 How to Reach Me
-- **Email:** alukoayomide623@gmail.com
-- **LinkedIn:** [Aluko Ayomide](https://www.linkedin.com/in/ayomide-aluko-555fdrrg)
-- **Twitter:** [@AyomiCoder](https://x.com/AyomiCoder)
-
 ## 📚 Technical Writing Blog
 <!-- BLOG-POST-LIST:START -->
 - [Hashnode](https://oxayomide.hashnode.dev)
 <!-- BLOG-POST-LIST:END -->
-
-## 📂 Portfolio
-- **[Portfolio](https://ayoaluko.vercel.app/):** My Personal Website.
